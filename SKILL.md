@@ -14,7 +14,7 @@
 ```
 sources/            原稿层：五源选录，唯一取证现场（只增不改）
   ↓ 提炼（锚定原文）
-atomic-skills/      原子层：最小不可分方法论单元（20 项，查 _registry.md）
+atomic-skills/      原子层：最小不可分方法论单元（查 _registry.md）
   ↓ 组合 + 派生（只引用原子 id@version）
 application-skills/ 应用层：场景 × 组合公式（查 _registry.md）
 ```
